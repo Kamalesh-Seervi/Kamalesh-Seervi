@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kkamalesh117@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14jdplXP01TjrOaKFoMf1TPUM9fyRUpiM/view?usp=share_link](https://drive.google.com/file/d/14jdplXP01TjrOaKFoMf1TPUM9fyRUpiM/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14jdplXP01TjrOaKFoMf1TPUM9fyRUpiM/view?usp=share_link]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +24,4 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kamalesh-Seervi)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalesh-seervi&" alt="kamalesh-seervi" /></p>
+[![An image of @kamaleshseervi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kamaleshseervi)](https://holopin.io/@kamaleshseervi)
