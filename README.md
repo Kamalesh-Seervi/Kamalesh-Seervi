@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kamalesh</h1>
 <h3 align="center">A passionate full stack developer, Devops and Cloud enthusiast</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalesh-seervi&label=Profile%20views&color=0e75b6&style=flat" alt="kamalesh-seervi" /> </p>
+
+[![An image of @kamaleshseervi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kamaleshseervi)](https://holopin.io/@kamaleshseervi)
 
 - 🔭 I’m currently working on [Photogram](https://github.com/Kamalesh-Seervi/photogram_Devops)
 
@@ -23,4 +24,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalesh-seervi&" alt="kamalesh-seervi" /></p>
 
-[![An image of @kamaleshseervi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kamaleshseervi)](https://holopin.io/@kamaleshseervi)
