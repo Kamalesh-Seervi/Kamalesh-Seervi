@@ -4,11 +4,11 @@
 
 [![An image of @kamaleshseervi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kamaleshseervi)](https://holopin.io/@kamaleshseervi)
 
-- 🔭 I’m currently working on [Photogram](https://github.com/Kamalesh-Seervi/photogram_Devops)
+- 🔭 I’m currently working on [Blog Subscription App](https://github.com/Kamalesh-Seervi/photogram_Devops)
 
 - 🌱 I’m currently learning **Devops(docker, jenkins, aws and ansible)**
 
-- 💬 Ask me about **PHP, MongoDB, Dockers, Html, css**
+- 💬 Ask me about **Golang, Python, Devops, Dockers, Html, css**
 
 - 📫 How to reach me **kkamalesh117@gmail.com**
 
